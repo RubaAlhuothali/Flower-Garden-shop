@@ -10,3 +10,9 @@ netbeans
 
 ### presentation
 [flower garden shop.pdf](https://github.com/RubaAlhuothali/Flower-Garden-shop/files/14395589/flower.garden.shop.pdf)
+
+### mady by
+- ruba alhuothali
+- Dalia Zamzami
+- Ghadah Alharthi 
+- Raghad Althaqafi
